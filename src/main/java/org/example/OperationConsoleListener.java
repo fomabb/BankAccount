@@ -27,7 +27,6 @@ public class OperationConsoleListener {
                                 processor -> processor
                         )
                 );
-        ;
     }
 
     public void listenUpdate() {
